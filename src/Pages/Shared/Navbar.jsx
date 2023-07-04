@@ -76,7 +76,7 @@ const Navbar = () => {
 
                 <li className="flex hidden items-center space-x-3 ml-64 lg:flex">
                     <Link
-                        to='https://drive.google.com/drive/u/1/my-drive'
+                        to='https://drive.google.com/drive/u/1/folders/10XTbcUMfZG5ukU1fazTWeXT4_n2j28um'
                         target='_blank'
                         aria-label="Resume"
                         title="Resume"
@@ -200,7 +200,7 @@ const Navbar = () => {
 
                                     <li className="flex items-center space-x-3 lg:ml-64 lg:flex">
                                         <Link
-                                            to='https://drive.google.com/drive/u/1/my-drive'
+                                            to='https://drive.google.com/drive/u/1/folders/10XTbcUMfZG5ukU1fazTWeXT4_n2j28um'
                                             target='_blank'
                                             aria-label="Resume"
                                             title="Resume"
